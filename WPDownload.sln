@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPDownload", "WPDownload\WPDownload.csproj", "{59EF91F2-7E55-4B1E-8466-8E7642C6268E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AD6F1D1F-8E54-4F9E-8168-E94E6C8B3E5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59EF91F2-7E55-4B1E-8466-8E7642C6268E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EF91F2-7E55-4B1E-8466-8E7642C6268E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EF91F2-7E55-4B1E-8466-8E7642C6268E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EF91F2-7E55-4B1E-8466-8E7642C6268E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139C85AC-7EC6-4195-AE49-6E606B523F85}
+	EndGlobalSection
+EndGlobal
